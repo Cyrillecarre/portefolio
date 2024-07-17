@@ -19,6 +19,7 @@ const Experience = () => {
                         Aquisition de multiples savoir faire en comptabilité, secretariat, 
                         management, relationship.
                     </p>
+                    
                 </div>
                 <div className='exp-3'>
                     <h4>Etudiant capcitaire de transport</h4>
